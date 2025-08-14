@@ -123,6 +123,6 @@ document.addEventListener("DOMContentLoaded", () => {
         preloader.style.display = "none";
         mainContent.style.display = "block";
       }, 500);
-    }, 3000);
+    }, 6000);
   });
 });
